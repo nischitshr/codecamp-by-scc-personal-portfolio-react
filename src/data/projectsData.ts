@@ -7,22 +7,22 @@ export type Project = {
 
 export const defaultProjects: Project[] = [
   {
-    title: "Portfolio Remix",
-    description: "A clean single-page portfolio with a surprise theme unlock.",
-    link: "https://example.com",
-    tags: ["React", "CSS"],
+    title: "Email Validator",
+    description: "A tool to validate email addresses for correctness and deliverability.",
+    link: "https://github.com/nischitshr/csv_email_validator_nestjs_backend",
+    tags: ["React", "CSS","TypeScript", "NestJs"],
   },
   {
-    title: "Study Buddy",
-    description: "A tiny productivity app for organizing study sessions.",
-    link: "https://example.com",
-    tags: ["TypeScript", "Vite"],
+    title: "BlogAPI",
+    description: "A RESTful API for managing blog posts and comments.",
+    link: "https://github.com/nischitshr/BlogAPI",
+    tags: ["Django", "Python", "REST"],
   },
   {
-    title: "Pixel Planner",
-    description: "A pixel-art inspired task board for creative teams.",
-    link: "https://example.com",
-    tags: ["Design", "UI"],
+    title: "Grievance System",
+    description: "A web application backend for submitting and tracking grievances within an organization",
+    link: "https://github.com/nischitshr/NI-Grievance-System",
+    tags: ["Typescript", "NodeJs"],
   },
 ];
 

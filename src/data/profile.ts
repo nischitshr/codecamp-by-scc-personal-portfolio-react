@@ -4,6 +4,6 @@ export const defaultProfile = {
 } as const;
 
 export const profile = {
-  name: "Your Name Here",
-  tagline: "Aspiring developer building something awesome.",
-};
+  name: "Nischit Shrestha",
+  tagline: "Full Stack Developer | Tech Enthusiast | Lifelong Learner"
+}
